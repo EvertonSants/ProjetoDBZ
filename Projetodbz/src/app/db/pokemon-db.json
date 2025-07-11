@@ -1,0 +1,44 @@
+[
+  {
+    "id": "7842f630-c92b-43be-b1fd-0df8db7a632a",
+    "nome": "Goku",
+    "descricao": "O mais Bravo",
+    "img": "https://dragonball-api.com/characters/goku_normal.webp"
+  },
+  {
+    "id": "9aa95370-5fef-4415-9f1e-023935ca0d73",
+    "nome": "Piccolo",
+    "descricao": "Namekuzeidin",
+    "img": "https://dragonball-api.com/characters/picolo_normal.webp"
+  },
+  {
+    "id": "4419e35d-7cba-410d-b351-cacb4d401744",
+    "nome": "Bulma",
+    "descricao": "Humana",
+    "img": "https://dragonball-api.com/characters/bulma.webp"
+  },
+  {
+    "id": "22d2901b-09fc-481f-88bc-0c25db3181c2",
+    "nome": "Gohan",
+    "descricao": "Maior Potencial ",
+    "img": "https://dragonball-api.com/characters/gohan.webp"
+  },
+  {
+    "id": "8a9989fc-c134-44f5-9cf2-5241587efc25",
+    "nome": "Kuririm",
+    "descricao": "Imortal",
+    "img": "https://dragonball-api.com/characters/Krilin_Universo7.webp"
+  },
+  {
+    "id": "84f26a62-c162-448c-8e24-bc0ed31ab35e",
+    "nome": "Mestre Kame",
+    "descricao": "Ero Senhor",
+    "img": "https://dragonball-api.com/characters/roshi.webp"
+  },
+  {
+    "id": "3bd622dc-a7c0-42ef-9289-1c10fe8c8c2e",
+    "nome": "Vegeta",
+    "descricao": "Bolado",
+    "img": "https://dragonball-api.com/characters/vegeta_normal.webp"
+  }
+]

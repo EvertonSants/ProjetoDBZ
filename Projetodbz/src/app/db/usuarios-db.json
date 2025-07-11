@@ -1,0 +1,32 @@
+[
+  {
+    "id": "18803528-02d2-42cb-836c-72cce148bff5",
+    "email": "jaum@teste.com.br",
+    "password": "$2b$10$FyKY8OGgsBpSXp8uXgIrY.s2WnwAvmtEAp3/QNkEFp/L4OzQ5aShm"
+  },
+  {
+    "id": "b2c9f8c6-0975-4d02-963d-18c630360368",
+    "email": "phyllipe_slf@yahoo.com.br",
+    "password": "$2b$10$7x28UljI2AMjrhn3hien4OAWuHL9TLiSb5RP6wS82RjH.WzkRSRn."
+  },
+  {
+    "id": "65bad995-b9a6-4ec3-aa4d-4f8731bb50f9",
+    "email": "jaum2@teste.com.br",
+    "password": "$2b$10$S65MIPsl/MKzGpjZaPwFfuN26MDVA.pTzSMyqrWf1KqddafthQ6zm"
+  },
+  {
+    "id": "1142cd51-d932-47b1-8133-201b268a8185",
+    "email": "tom_tonzin@hotmail.com",
+    "password": "$2b$10$0Agn3AK/EoOZBh7PsqqczeNIY2/fpLGfNIG0cokD5/BOo73S4DgHK"
+  },
+  {
+    "id": "446ed971-75c4-47a7-aed5-50a533800f23",
+    "email": "tom@gg.co",
+    "password": "$2b$10$hNVJ9WMuCn9CqKZddmDukuSBuEoCO2oHzRvGUFEpNtvLpDO3WymyG"
+  },
+  {
+    "id": "6f70cca1-f52e-4333-98e8-fa2893996769",
+    "email": "tom@gmail.com.br",
+    "password": "$2b$10$zPOc1bb68hLZCi5KtxgVXu/HhNbdQSow9fU2Md/jmIRhsK74GNyd6"
+  }
+]
